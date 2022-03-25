@@ -1,12 +1,12 @@
 {
     "botSettings": {
-        "prefix": ""
+        "prefix": "2"
     },
     "mongoSettings": {
         "mongoPath": "",
         "password": ""
     },
     "otherSettings": {
-        "owner": ""
+        "owner": "345152850751389697"
     }
 }
